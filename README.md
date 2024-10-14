@@ -11,7 +11,7 @@ Katie Witcher - [@katiewitcher](https://github.com/katiewitcher/Coffee)
 <br> 
 Jack Macken- [@jackmacken](https://github.com/jackmacken/4610Project)
 <br> 
-Andrew Baich - [@andrewbaich]()
+Andrew Baich - [@andrewbaich](https://github.com/AndrewBaich/MIST-4610-Team-7)
 <br> 
 Brooke Istishin - [@brookeistishin](https://github.com/brookeistishin/MIST4610GroupProject1
 ) 
