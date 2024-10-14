@@ -33,7 +33,8 @@ Menu items represent the products sold by the coffee shops, such as different ty
   Suppliers provide the ingredients required to prepare the coffee shop’s menu items. Each supplier can supply multiple ingredients to different coffee shop locations, ensuring a steady flow of stock to maintain operations.<br> 
 
  
-[PASTE this.pdf](https://github.com/user-attachments/files/17358875/PASTE.this.pdf)
+![image](https://github.com/user-attachments/assets/7dae2bbe-61ec-43e4-acee-34c9a6dd56cc)
+
 
  
 ## Data Dictionary:
