@@ -4,17 +4,18 @@
 Team 7
 <br>  
 ## Team Members
-Giovanna Palma - @gpalma77
+Giovanna Palma - [@gpalma77](https://github.com/gpalma77/MIST-4610-Project
+)
 <br> 
-Katie Witcher - @katiewitcher 
+Katie Witcher - [@katiewitcher](https://github.com/katiewitcher/Coffee)
 <br> 
-Jack Macken- @jackmacken
+Jack Macken- [@jackmacken](https://github.com/jackmacken/4610Project)
 <br> 
-Andrew Baich - @andrewbaich
+Andrew Baich - [@andrewbaich]()
 <br> 
-Brooke Istishin - @brookeistishin 
+Brooke Istishin - [@brookeistishin](https://github.com/brookeistishin/MIST4610GroupProject1
+) 
 <br> 
- 
 ## Scenario description:
 Our project models a small, local coffee shop chain in Georgia, operating multiple locations under unique names, but all managed centrally with a unified menu. The owner oversees all locations using a central data center to streamline operations.
 Key entities in the database include Customer, Order, Employee, Coffee Shop, OrderItem, MenuItem, RecipeItem, Ingredients, Supplier, and Category. These entities and their relationships allow the database to efficiently track customer visits, the details of their orders, payment methods, and the employee handling each transaction at a specific location. Additionally, the database stores information on the menu items ordered, their ingredients, and the corresponding recipes. It also manages stock levels and tracks suppliers for each ingredient, ensuring a seamless supply chain.
